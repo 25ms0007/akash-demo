@@ -1,4 +1,4 @@
 # akash-demo
 this is my first git repository.
 <br>
-Author - Akash Rajput
+Author - Akash (Apna College)
